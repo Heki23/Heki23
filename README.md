@@ -23,7 +23,7 @@
 </p>
 
   <div align="center">
-        <img src="https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.gif" />
+        <img src="https://github.com/Heki23/Heki23/blob/main/coding" />
     </div>
 
 <h3 align="left">Stars</h3>
