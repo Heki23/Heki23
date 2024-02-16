@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Harshdeep Singh</h1>
 <h3 align="center">Student</h3>
 - 🔭 I’m currently working on [PasswordApp](https://github.com/Heki23/PasswortApp)<br>
-- 🌱 I’m currently learning **WPF, HTML, PHP, JS, PLSQL**
+- 🌱 I’m currently learning <b></b>**WPF, HTML, PHP, JS, PLSQL**</b>
 
 - 📫 How to reach me **harshdeep2239@gmail.com**
 - 📄 Know about my experiences **https://github.com/Heki23/Heki23/blob/main/Praktikumszeugnis%20Harshdeep%20Singh.pdf**
