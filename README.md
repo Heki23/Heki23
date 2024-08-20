@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning <b>C#, HTML, PHP, JS, PLSQL</b>
 
 - 📫 How to reach me **harshdeep2239@gmail.com**
-- 📄 Know about my experiences **https://github.com/Heki23/Heki23/blob/main/Praktikumszeugnis%20Harshdeep%20Singh.pdf**
+
 
 <div> <a href="https://github.com/Heki23" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:harshdeep2239@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
