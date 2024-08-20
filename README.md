@@ -37,5 +37,5 @@
 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Heki23&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Heki23&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Heki23&theme=2077" height="180em" />
+
 </div>
