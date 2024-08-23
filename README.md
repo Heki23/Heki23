@@ -7,7 +7,7 @@
 
 ## 🌐 Socials:
 <a href = "mailto:harshdeep2239@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href = "https://linkedin.com/in/https://www.linkedin.com/in/harshdeep2239/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="25px"></a>
+<a href = "https://www.linkedin.com/in/harshdeep2239/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="25px"></a>
 <a href="#">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" title="heki2239">
 </a>
