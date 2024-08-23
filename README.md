@@ -14,7 +14,8 @@
 
 
 ## 💻 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=cs,java,js,html,css,php,mysql,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,java,js,html,css,php,mysql)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,idea,notion)](https://skillicons.dev)
 <br><br>
   <div align="center" >
         <img src="https://github.com/Heki23/Heki23/blob/main/coding" height="400vmax" />
