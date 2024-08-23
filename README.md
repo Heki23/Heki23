@@ -1,10 +1,17 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Harshdeep Singh</h1>
-- 🌱 I’m currently learning <b>JAVA, C#, HTML, PHP, JS, PLSQL</b>
+🔭 I’m currently working on Mobile Development
+🌱 I’m currently learning JAVA, C#
 
-- 📫 How to reach me **harshdeep2239@gmail.com**
 
-<a href = "mailto:harshdeep2239@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:harshdeep2239@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href = "https://linkedin.com/in/https://www.linkedin.com/in/harshdeep2239/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30px"></a>
+<a href="#" onclick="navigator.clipboard.writeText('heki2239'); alert('Text kopiert: heki2239');">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
+
+
+
 </div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
