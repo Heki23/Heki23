@@ -21,8 +21,6 @@
 
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
-
-
   <p align="left">
     <a href="https://github.com/Heki23/ChromeTool">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Heki23&repo=ChromeTool&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ChromeTool">
